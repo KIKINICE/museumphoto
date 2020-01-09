@@ -29,7 +29,7 @@
 ### (2).目标用户分析
 * 年龄分布——年轻用户为主
 
-![目标用户年龄分布](https://images.gitee.com/uploads/images/2020/0107/223815_c9d0cdc5_1648193.png "屏幕截图.png")
+![目标用户年龄分布](https://images.gitee.com/uploads/images/2020/0107/223815_c9d0cdc5_1648193.png)
 
 * 职业分布——上班族更爱拍
 
